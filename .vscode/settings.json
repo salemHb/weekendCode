@@ -1,0 +1,16 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "always"
+	},
+	"tailwindCSS.includeLanguages": {
+		"plaintext": "html",
+		"typescript": "javascript",
+		"typescriptreact": "javascriptreact"
+	},
+	"tailwindCSS.emmetCompletions": true,
+	"css.validate": false,
+	"files.associations": {
+		"*.css": "tailwindcss"
+	}
+}

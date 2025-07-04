@@ -75,7 +75,7 @@ export default function Hero() {
 					</h1>
 
 					<p className="text-lg sm:text-xl text-gray-100">
-						Online · 1-on-1 · Grades 1–9 · KES 2000/hr
+						Online Only! For Grades 3–9 · KES 2000/hr
 					</p>
 
 					{/* Buttons with spacing */}

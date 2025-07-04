@@ -6,6 +6,7 @@ import CalendarEmbed from "@/components/CalendarEmbed";
 
 import Footer from "@/components/Footer";
 import ChatFloat from "@/components/ChatFloat";
+import CallFloat from "@/components/CallFloat";
 
 export default function WeekendCoding() {
 	return (
@@ -18,6 +19,7 @@ export default function WeekendCoding() {
 
 			<Footer />
 			<ChatFloat />
+			<CallFloat />
 		</main>
 	);
 }

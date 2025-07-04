@@ -12,7 +12,7 @@ export default function Pricing() {
 					id="pricing-heading"
 					className="text-3xl sm:text-4xl font-bold text-gray-900 tracking-tight mb-10 sm:mb-12 lg:mb-16"
 				>
-					Schedule & Pricing
+					codeX Tech
 				</h2>
 
 				<div className="flex flex-col md:flex-row gap-6 sm:gap-8 justify-center">
@@ -23,14 +23,12 @@ export default function Pricing() {
 						transition={{ duration: 0.5 }}
 						aria-label="Pricing details"
 					>
-						<h3 className="text-xl sm:text-2xl font-semibold text-blue-700 mb-2">
-							Weekend Coding Classes
+						<h3 className="text-xl sm:text-2xl font-semibold text-black-700 mb-2">
+							Every Saturday & Sunday
 						</h3>
-						<p className="text-lg sm:text-xl text-gray-800 mb-2">
-							Sat & Sun · 9AM – 6PM
-						</p>
+						<p className="text-lg sm:text-xl text-gray-800 mb-2">9AM – 6PM</p>
 						<p className="text-2xl sm:text-3xl font-bold text-blue-700 mb-6">
-							KES 2000 / hour
+							KES 2000 / Hour
 						</p>
 						<a
 							href="https://calendly.com/husseinsalim/60-minute-coding-lesson"
